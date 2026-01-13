@@ -1,3 +1,2 @@
 spoiler alert: c'est toujours un fichier inutile.
 test: modif 
-Le stylo est rouge.
