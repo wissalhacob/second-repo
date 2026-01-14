@@ -1,3 +1,4 @@
 spoiler alert: c'est toujours un fichier inutile.
 test: modif
 file.txt : Le stylo est rouge.
+stash
